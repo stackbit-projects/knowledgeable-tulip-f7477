@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Amal Rajan'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      A developer; I love solving programming problems, studying data structures
+      & algorithms, and automating the boring tasks around.
     actions:
       - label: Let's talk
         url: /contact
